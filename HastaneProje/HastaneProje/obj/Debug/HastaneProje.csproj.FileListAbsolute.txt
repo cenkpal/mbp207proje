@@ -1,0 +1,15 @@
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe.config
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\bin\Debug\HastaneProje.exe
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\bin\Debug\HastaneProje.pdb
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csprojAssemblyReference.cache
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form1.resources
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form2.resources
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Properties.Resources.resources
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.GenerateResource.cache
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.csproj.CoreCompileInputs.cache
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.exe
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.pdb
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form3.resources
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form4.resources
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form5.resources
+C:\Users\cihat\source\repos\HastaneProje\HastaneProje\obj\Debug\HastaneProje.Form6.resources
